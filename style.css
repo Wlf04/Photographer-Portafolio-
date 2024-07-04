@@ -375,7 +375,7 @@ h1{
     }
 
     .navigation--mobile {
-        top: var(--navbar-height);
+        top:0;
         position: absolute;
         right: 0;
         display: flex;
