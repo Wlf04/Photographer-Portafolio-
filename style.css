@@ -438,4 +438,11 @@ h1{
         color: #000;
     }
 
+    .menu__wrapper {
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    z-index: 2;
+}
+
 }
